@@ -1,6 +1,5 @@
 {
   "admin": {
-    "user": "admin@gmail.com",
-    "password": "password"
+    "user": "admin@gmail.com"
   }
 }
