@@ -1,5 +1,6 @@
 {
-  "profile": {
-    "name": "typicode"
+  "admin": {
+    "user": "admin@gmail.com",
+    "password": "password",
   }
 }
