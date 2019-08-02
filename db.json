@@ -1,0 +1,7 @@
+{
+  adminUser:[
+  {
+  userName: "admin",
+    password: "password"
+  ]
+}
